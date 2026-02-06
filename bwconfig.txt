@@ -1,0 +1,3 @@
+1 # Configuration file for Big Wig Electronics
+2 # Created By Mukanse Pule - 06 February 2026
+3 timeout=45
